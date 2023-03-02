@@ -1,2 +1,4 @@
 # islandShirts
-Front end of an imaginary tropical shirt store
+https://arnewport.github.io/islandShirts/
+
+Front end of an imaginary tropical shirt store.
